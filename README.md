@@ -1,2 +1,1 @@
-# GitFlow
-Este es un metodo de gitflow
+  m  i culito quiere verga soy eliseaputita
